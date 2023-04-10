@@ -8,7 +8,8 @@ Firstly, import math in program
 ### Step 2: 
 Assign the given first and second coordinates to the list1 and list2 respectively
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  
+![formula](/formula.jpg)
 ### Step 4:
 Print the distance with two precisions
 ### Step 5: 
