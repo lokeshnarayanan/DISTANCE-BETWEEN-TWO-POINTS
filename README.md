@@ -9,7 +9,9 @@ Firstly, import math in program
 Assign the given first and second coordinates to the list1 and list2 respectively
 ### Step 3: 
 Substitute the values in the distance formula  
-![formula](/formula.jpg)
+![image](https://user-images.githubusercontent.com/119393019/230820706-278e011d-00f8-40ce-bc38-ae513b821444.png)
+
+
 ### Step 4:
 Print the distance with two precisions
 ### Step 5: 
